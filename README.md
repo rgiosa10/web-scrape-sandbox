@@ -2,9 +2,9 @@
 
 #### By [Ruben Giosa](https://www.linkedin.com/in/rubengiosa/)
 
-#### This repo is for sandboxing using BeautifulSoup for web-scraping data from Wikipedia.
+#### This repo is for sandboxing using BeautifulSoup for web-scraping data from Wikipedia. It then cleans up the data and exports the cleaned up data to a CSV.
 
-<img src="imgs/team_week3_readme.png" alt="sample of work" width="750"/>
+<img src="imgs/Screen Shot 2023-02-24 at 2.25.36 PM.png" alt="sample of work" width="750"/>
 
 <br>
 
