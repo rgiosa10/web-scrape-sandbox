@@ -6,6 +6,10 @@
 
 <img src="imgs/Screen Shot 2023-02-24 at 2.25.36 PM.png" alt="sample of work" width="750"/>
 
+## Datasets:
+1. [List of countries and dependencies by population](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population)
+2. [List of official languages by country and territory](https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory)
+
 <br>
 
 ## Technologies Used
