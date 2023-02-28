@@ -1,6 +1,7 @@
 country,pop,pop_world (percent),pop_date,official_lang,regional_lang,minority_lang,national_lang,widely_spoken_lang
 China,1411750000,17.6,2022-12-31,['Mandarin Chinese'],"['English', 'Portuguese']","['Mongolian', 'Uyghur', 'Tibetan', 'Zhuang', 'Kazakh', 'Korean']",,['Other Sinitic languages']
 India,1375586000,17.2,2022-03-01,"['Hindi', 'English']","['22 official languages - Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Meitei , Marathi, Nepali, Odia , Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, and Urdu.']",['see Languages of India'],,['see List of languages by number of native speakers in India']
+United States,334426100,4.17,2023-02-25,['None'],,,['Several indigenous languages of recognized federal tribes'],['Spanish']
 Indonesia,275773800,3.44,2022-07-01,['Indonesian'],"['Malay', 'Javanese']",,"['Indonesian', 'Malay']","['Malay', 'Javanese', 'Indonesian', 'Sundanese', 'Madurese', 'Minangkabau', 'see 700 More Languages in Indonesia']"
 Pakistan,235825000,2.94,2022-07-01,"['Urdu', 'English']",,,['Urdu'],"['Punjabi', 'Balochi', 'Sindhi', 'Pashto']"
 Nigeria,218541000,2.73,2022-07-01,['English'],,,"['Hausa', 'Yoruba', 'Igbo', 'Tiv']",
@@ -19,7 +20,9 @@ Germany,84270625,1.05,2022-09-30,['German'],"['Danish', 'Lower Sorbian', 'North 
 France,68042591,0.849,2023-01-01,['French'],,"['Corsican language', 'Basque language', 'Breton language']",,['Occitan language']
 Thailand,66900130,0.835,2023-02-28,['Thai'],,,,
 Tanzania,61741120,0.77,2022-08-23,"['Swahili', 'English']",,,['Swahili'],
+South Africa,60604992,0.756,2022-07-01,"['Afrikaans', 'English', 'Southern Ndebele', 'Sotho', 'Northern Sotho', 'Swazi', 'Tsonga', 'Tswana', 'Venda', 'Xhosa', 'Zulu']",,,,
 Italy,58887359,0.735,2022-10-31,['Italian'],"['French', 'Franco-Provençal', 'Occitan', 'German', 'Ladin', 'Friulian', 'Slovene', 'Albanian/Arbereshe', 'Sardinian', 'Corsican', 'Two dialects of Greek, Griko  and Calabrian Greek']","['Ladin', 'Slovene']",,['Other Italo-Dalmatian languages']
+South Korea,51439038,0.642,2022-12-31,"['Korean', 'Korean Sign Language']",,,,
 Colombia,51049498,0.637,2021-06-30,['Spanish'],,,,
 Spain,47615034,0.594,2022-07-01,['Spanish'],"['Catalan', 'Galician', 'Occitan', 'Basque']","['Astur-Leonese', 'Aragonese', 'Fala', 'French', 'Portuguese']",,
 Kenya,47564296,0.593,2019-08-31,"['English', 'Swahili']",,,['Swahili'],
@@ -33,6 +36,7 @@ Canada,39131255,0.488,2023-02-28,"['English', 'French']","['Chipewyan', 'Cree', 
 Poland,37767000,0.471,2022-12-31,['Polish'],['Kashubian'],"['German', 'Lithuanian', 'Belarusian', 'Czech', 'Hebrew', 'Yiddish', 'Lemko', 'Karaim', 'Armenian', 'Romani', 'Russian', 'Slovak', 'Tatar', 'Ukrainian']",,
 Morocco,36880789,0.46,2023-02-28,"['Arabic', 'Tamazight']",,,['Arabic'],['Darija']
 Uzbekistan,36078103,0.45,2023-02-28,['Uzbek'],,"['Uzbek', 'Karakalpak and Uzbek in Karakalpakstan']",,['Russian']
+Saudi Arabia,34110821,0.426,2021-07-01,['Arabic'],,"['Faifi', 'Razihi', 'Mehri']",,"['Indian Languages', 'Filipino', 'Bengali']"
 Yemen,33697000,0.42,2022-07-01,['Arabic'],,"['Mehri', 'Soqotri']",,
 Peru,33396698,0.417,2022-07-01,"['Peruvian Spanish', 'Quechua', 'Aymara', 'Asháninka']",,,,
 Angola,33086278,0.413,2022-06-30,['Portuguese'],,,"['Kimbundu', 'Umbundu', 'Kikongo', 'Chokwe', 'Kwanyama', 'Ganguela']",['Angolan Portuguese']
@@ -40,14 +44,18 @@ Afghanistan,32890171,0.41,2020-07-01,"['Persian', 'Pashto']","['Uzbek', 'Turkmen
 Malaysia,32773200,0.409,2023-02-28,['Malay'],['Regional/State dialects'],,['Malay'],"['Malay', 'Mandarin Chinese', 'Cantonese', 'Tamil']"
 Mozambique,32419747,0.404,2022-07-01,['Portuguese'],,,,
 Ghana,30832019,0.385,2021-06-27,['English'],"['Fante', 'Asante Twi', 'Akuapem Twi', 'Adangme', 'Dagaare', 'Dagbani', 'Ewe', 'Ga', 'Gonja', 'Kasem', 'Nzema']",,,
+Ivory Coast,29389150,0.367,2021-12-14,['French'],,,,
 Nepal,29192480,0.364,2021-11-11,['Nepali'],,,['all languages spoken as the mother tongue in Nepal'],
 Venezuela,28302000,0.353,2022-07-01,"['Spanish', 'Venezuelan Sign Language']",,,,
 Madagascar,26923353,0.336,2021-07-01,"['French', 'Malagasy']",,,['Malagasy'],
 Australia,26057157,0.325,2023-02-28,['None'],['Norfuk language'],,,
+North Korea,25660000,0.32,2021-07-01,['Korean'],,,,
 Cameroon,24348251,0.304,2019-07-01,"['English', 'French']",,,,
 Niger,24112753,0.301,2021-07-01,['French'],,,"['Arabic', 'Hausa', 'Fulfulde', 'Gulmancema', 'Kanuri', 'Zarma', 'Tamazight']",
 Taiwan,23375314,0.292,2021-12-31,['None'],,,"['Taiwanese Mandarin', 'Taiwanese Hokkien', 'Taiwanese Hakka', 'Formosan languages', 'Taiwan Sign Language', 'Matsu dialect', 'Wuqiu dialect']",
 Mali,22594000,0.282,2022-07-01,['French'],['Tamazight'],,,
+Burkina Faso,22185654,0.277,2022-07-01,['French'],,,"['Fula', 'Jula', 'More']",
+Sri Lanka,22181000,0.277,2022-07-01,"['Sinhala', 'Tamil']",,,"['Sinhala', 'Tamil']",
 Syria,22125000,0.276,2021-07-01,['Arabic'],['Kurdish'],"['Assyrian', 'Western Neo-Aramaic', 'Armenian']",,
 Malawi,21507723,0.268,2022-07-01,"['English', 'Chichewa']",,,['Chichewa'],
 Chile,19828563,0.247,2022-06-30,['Chilean Spanish'],,,['Chilean Spanish'],
@@ -62,6 +70,7 @@ Guatemala,17109746,0.213,2021-07-01,['Spanish'],,,,
 Chad,16818391,0.21,2021-07-01,"['Arabic', 'French']",,,,
 Cambodia,15552211,0.194,2019-03-03,['Khmer'],,,,
 Zimbabwe,15178979,0.189,2022-04-20,"['Chewa', 'Chibarwe', 'English', 'Kalanga', 'Khoisan', 'Nambya', 'Ndau', 'Ndebele', 'Shangani', 'Shona', 'Sign language', 'Sotho', 'Tonga', 'Tswana', 'Venda', 'Xhosa']",,,,
+South Sudan,13249924,0.165,2020-07-01,['English'],,,,
 Rwanda,12955768,0.162,2021-07-01,"['English', 'French', 'Kinyarwanda', 'Swahili']",,,,
 Guinea,12907395,0.161,2021-07-01,['French'],,,,"['Fula', 'Maninka', 'Susu']"
 Burundi,12574571,0.157,2021-07-01,"['French', 'Kirundi', 'English']",,,['Kirundi'],['Swahili']
@@ -72,6 +81,8 @@ Haiti,11743017,0.147,2020-07-01,"['French', 'Haitian Creole']",,,,
 Belgium,11730564,0.146,2022-11-01,"['Dutch', 'French', 'German']","['Dutch', 'French', 'German']",,,
 Jordan,11418284,0.142,2023-02-28,['Arabic'],,"['Circassian', 'Chechen', 'Armenian']",,
 Cuba,11113215,0.139,2021-12-31,['Spanish'],,,,
+Dominican Republic,10535535,0.131,2021-07-01,['Spanish'],,,,
+Czech Republic,10526937,0.131,2022-09-30,"['Czech', 'Slovak']",,"['Belarusian', 'Bulgarian', 'Croatian', 'German', 'Greek', 'Hungarian', 'Polish', 'Romani', 'Russian', 'Rusyn', 'Serbian', 'Ukrainian', 'Vietnamese']",['Czech'],
 Sweden,10521556,0.131,2022-12-31,['Swedish'],,"['Finnish', 'Sami']",,"['English', 'Romani', 'Yiddish']"
 Greece,10432481,0.13,2021-11-23,['Greek'],,,,
 Portugal,10344802,0.129,2021-04-19,['Portuguese'],['Mirandese'],,,
@@ -80,25 +91,32 @@ Israel,9684320,0.121,2023-02-28,['Hebrew'],['Arabic'],['English'],,"['Russian', 
 Hungary,9678000,0.121,2023-01-01,['Hungarian'],,"['Croatian', 'German', 'Romanian', 'Serbian', 'Slovak', 'Slovene']",,
 Honduras,9546178,0.119,2021-07-01,['Spanish'],"['Garifuna', 'English', 'Miskito']",,,
 Tajikistan,9506000,0.119,2021-01-01,['Tajik'],,,['Tajik'],['Russian']
+United Arab Emirates,9282410,0.116,2020-12-31,['Arabic'],,,,
 Belarus,9255524,0.115,2022-01-01,"['Belarusian', 'Russian']",,,['Belarusian'],
+Papua New Guinea,9122994,0.114,2021-07-01,"['English', 'Hiri Motu', 'PNG Sign Language', 'Tok Pisin']",,,,
 Austria,9106126,0.114,2023-01-01,['German'],"['Burgenland Croatian', 'Hungarian', 'Slovene']","['Slovene', 'Czech', 'Hungarian', 'Slovak', 'Romani', 'Serbian']",['German'],
 Switzerland,8789726,0.11,2022-09-30,"['French', 'German', 'Italian', 'Romansh']",,,,
+Sierra Leone,8494260,0.106,2022-07-01,['English'],,,['Krio'],
 Togo,7886000,0.0984,2021-07-01,['French'],,,,
 Paraguay,7353038,0.0917,2021-07-01,"['Spanish', 'Guaraní']",,,,
 Laos,7337783,0.0915,2021-07-01,['Lao'],,,,
 Kyrgyzstan,7000000,0.0873,2022-11-01,"['Kyrgyz', 'Russian']",,,['Kyrgyz'],
+El Salvador,6825935,0.0852,2021-07-01,['Spanish'],,,,
 Libya,6812000,0.085,2022-07-01,['Arabic'],,,,
 Serbia,6690887,0.0835,2022-10-31,['Serbian'],,,,
 Nicaragua,6595674,0.0823,2020-06-30,['Spanish'],,,,
 Bulgaria,6519789,0.0813,2021-09-07,['Bulgarian'],,,,
 Turkmenistan,6431000,0.0802,2021-07-01,['Turkmen'],,,['Turkmen'],['Russian']
 Denmark,5932654,0.074,2023-01-01,['Danish'],"['Faroese', 'Kalaallisut']",['German'],,['English']
+Central African Republic,5633412,0.0703,2020-07-01,"['French', 'Sango']",,,,
 Finland,5528796,0.069,2022-09-30,"['Finnish', 'Swedish']",,['Sami'],"['Finnish', 'Swedish']",
 Lebanon,5490000,0.0685,2021-07-01,['Arabic'],['Arabic'],['Armenian'],"['Arabic', 'English', 'French']","['Arabic', 'English', 'French']"
 Palestine,5483450,0.0684,2023-01-01,['None'],,,,"['English', 'Hebrew']"
 Norway,5488984,0.0685,2022-12-31,"['Norwegian', 'Sami languages']","['Northern Sami', 'Lule Sami', 'Southern Sámi', 'Kven']","['Kven', 'Scandoromani']","['Bokmål', 'Nynorsk']",
 Singapore,5453600,0.068,2021-06-30,"['English', 'Malay', 'Mandarin Chinese', 'Tamil']",,,['Malay'],
 Slovakia,5431344,0.0678,2022-09-30,['Slovak'],,"['Bulgarian', 'Czech', 'German', 'Hungarian', 'Polish', 'Romani', 'Rusyn', 'Serbian', 'Ukrainian']",,
+Costa Rica,5163038,0.0644,2021-06-30,['Spanish'],,"['Indigenous languages', 'Limonese Creole']",,
+New Zealand,5157683,0.0643,2023-02-28,"['English has de facto status', 'Māori language', 'New Zealand Sign Language']",,,,
 Ireland,5123536,0.0639,2022-04-03,"['Irish', 'English']",,,['Irish'],
 Kuwait,4670713,0.0583,2020-12-31,['Standard Arabic'],,,"['Kuwaiti Sign Language', 'Kuwaiti Arabic', 'Kuwaiti Persian']",
 Liberia,4661010,0.0581,2021-07-01,['English'],,,,
@@ -110,6 +128,7 @@ Georgia,3688600,0.046,2022-01-01,['Georgian'],,,,
 Eritrea,3684000,0.046,2021-07-01,['Tigrinya'],,,,"['Arabic', 'Italian']"
 Uruguay,3554915,0.0444,2021-06-30,['None'],,,,
 Mongolia,3484652,0.0435,2023-02-28,['Mongolian'],,,,
+Bosnia and Herzegovina,3320954,0.0414,2020-07-01,['None'],,,,
 Armenia,2976800,0.0371,2022-01-01,['Armenian'],,,['Armenian'],
 Lithuania,2839020,0.0354,2022-11-01,['Lithuanian'],,,,['Russian']
 Albania,2829741,0.0353,2021-01-01,['Albanian'],,"['Greek', 'Macedonian', 'Aromanian']",,['Italian']
@@ -123,8 +142,13 @@ Lesotho,2306000,0.0288,2021-07-01,"['Sotho', 'English']",,,['Sotho'],
 Gabon,2233272,0.0279,2021-07-01,['French'],,,,
 Slovenia,2108977,0.0263,2021-01-01,['Slovene'],,"['Hungarian', 'Italian', 'Croatian']",,
 Latvia,1895400,0.0236,2022-10-01,['Latvian'],,,,['Russian']
+North Macedonia,1832696,0.0229,2021-11-01,"['Macedonian', 'Albanian']",,,,
+Kosovo,1798188,0.0224,2020-12-31,"['Albanian', 'Serbian']",['Turkish'],,"['Albanian', 'Serbian']",
+Equatorial Guinea,1505588,0.0188,2021-07-01,"['French', 'Portuguese', 'Spanish']",,,,
 Bahrain,1501635,0.0187,2020-03-17,['Arabic'],,['English'],,
+Trinidad and Tobago,1367558,0.0171,2021-06-30,['English'],,,,['Trinidadian Creole']
 Estonia,1331796,0.0166,2022-01-01,['Estonian'],,,,"['English, Russian']"
+East Timor,1317780,0.0164,2021-07-01,"['Portuguese', 'Tetum']",,,,
 Mauritius,1266334,0.0158,2021-06-30,"['English', 'Mauritian Creole']",,['English'],,
 Eswatini,1202000,0.015,2021-07-01,"['English', 'Swazi']",,,,
 Djibouti,1001454,0.0125,2022-07-01,"['Arabic', 'French']",,,,
@@ -133,27 +157,42 @@ Fiji,898402,0.0112,2021-07-01,"['English', 'Fijian', 'Fiji Hindi']",,,,
 Bhutan,763200,0.00952,2022-05-30,['Dzongkha'],,,,
 Comoros,758316,0.00946,2017-12-15,"['Arabic', 'Comorian', 'French']",,,,
 Guyana,743699,0.00928,2019-07-01,['English'],,,,['Guyanese Creole']
+Solomon Islands,728041,0.00908,2021-07-01,['English'],,,,
 Luxembourg,645397,0.00805,2022-01-01,"['French', 'German', 'Luxembourgish']",,,['Luxembourgish'],
 Montenegro,617683,0.00771,2022-01-01,['Montenegrin'],,,,
 Suriname,598000,0.00746,2019-07-01,['Dutch'],,,['Sranan Tongo'],
+Cape Verde,563198,0.00703,2021-07-01,['Portuguese'],,,['Cape Verdean Creole'],
 Malta,519562,0.00648,2021-11-21,"['Maltese', 'English']",,,['Maltese'],
 Belize,441471,0.00551,2022-07-01,['English'],['Spanish'],,,['Kriol']
 Brunei,429999,0.00536,2021-07-01,"['Malay', 'English']",,,,
 Bahamas,393450,0.00491,2021-07-01,['English'],,,,
 Iceland,385230,0.00481,2022-09-30,"['Icelandic', 'Icelandic Sign Language']",,,,
 Maldives,383135,0.00478,2019-12-31,['Dhivehi'],,,,
+Northern Cyprus,382836,0.00478,2020-12-31,['Turkish'],,,,
+Transnistria,360938,0.0045,2022-12-31,"['Moldovan', 'Russian', 'Ukrainian']",,,,
 Vanuatu,301295,0.00376,2021-07-01,"['English', 'French']",,,['Bislama'],
 Barbados,282000,0.00352,2021-07-01,['English'],,,,
+Abkhazia,245424,0.00306,2020-01-01,"['Abkhaz', 'Russian']",,['Georgian'],['Abkhaz'],
 Samoa,199853,0.00249,2021-07-01,['English'],,,['Samoan'],
+Saint Lucia,178696,0.00223,2018-07-01,['English'],,,,
+Artsakh,148900,0.00186,2019-10-01,"['Armenian', 'Russian']",,,,
 Grenada,125000,0.00156,2021-07-01,['English'],,,,
 Kiribati,120740,0.00151,2021-07-01,['English'],,,['Kiribati'],
+Saint Vincent and the Grenadines,110696,0.00138,2020-07-01,['English'],,,,
+Antigua and Barbuda,100772,0.00126,2022-01-01,['English'],,,,['Antiguan and Barbudan Creole']
 Seychelles,100447,0.00125,2022-04-22,"['English', 'French', 'Seychellois Creole']",,,,
 Tonga,100179,0.00125,2022-01-01,"['English', 'Tongan']",,,,
 Andorra,81057,0.00101,2022-10-31,['Catalan'],,"['Spanish', 'French', 'Portuguese']",,
 Dominica,73000,0.000911,2021-07-01,['English'],,,,
+South Ossetia,56520,0.000705,2021-12-31,"['Ossetian', 'Russian']",['Georgian'],['Georgian'],,
+Saint Kitts and Nevis,48000,0.000599,2021-07-01,['English'],,,,
 Liechtenstein,39444,0.000492,2022-06-30,['German'],,,,
+Marshall Islands,39262,0.00049,2021-07-01,['English'],,,['Marshallese'],
 Monaco,39150,0.000488,2021-12-31,['French'],,,,['Monégasque']
+San Marino,33785,0.000421,2022-08-31,['Italian'],,,,
 Palau,16733,0.000209,2021-07-01,"['English', 'Palauan']","['Sonsorolese', 'Tobian', 'Japanese']",,,
+Cook Islands,15040,0.000188,2021-07-01,"['English, Cook Islands Māori']",,,,
 Nauru,11832,0.000148,2021-07-01,"['English', 'Nauruan']",,,,
 Tuvalu,10679,0.000133,2021-07-01,"['Tuvaluan', 'English']",,,"['Tuvaluan', 'English']","['Tuvaluan', 'English']"
 Niue,1549,0.0,2021-07-01,"['English', 'Niuean']",,,,
+Vatican City,825,0.0,2019-02-01,"['Italian', 'Latin']",,,,['Swiss German']
